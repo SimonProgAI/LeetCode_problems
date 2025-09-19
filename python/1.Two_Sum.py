@@ -1,4 +1,0 @@
-#def twoSum():
-    
-
-#twoSum()
