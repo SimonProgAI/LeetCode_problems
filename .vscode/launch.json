@@ -4,7 +4,48 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "RemoveDupplicatesFromSortedArray",
+            "request": "launch",
+            "mainClass": "RemoveDupplicatesFromSortedArray",
+            "projectName": "LeetCode_problems_d00d9fcc"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "LeetCode_problems_d00d9fcc"
+        },
+        {
+            "type": "java",
+            "name": "MoveTargetNumToEnd",
+            "request": "launch",
+            "mainClass": "MoveTargetNumToEnd",
+            "projectName": "LeetCode_problems_d00d9fcc"
+        },
+        {
+            "type": "java",
+            "name": "MoveZeroesToEnd",
+            "request": "launch",
+            "mainClass": "MoveZeroesToEnd",
+            "projectName": "LeetCode_problems_d00d9fcc"
+        },
+        {
+            "type": "java",
+            "name": "RemoveOccurence",
+            "request": "launch",
+            "mainClass": "RemoveOccurence",
+            "projectName": "LeetCode_problems_d00d9fcc"
+        },
+        {
+            "type": "java",
+            "name": "ChoiceChallenge",
+            "request": "launch",
+            "mainClass": "ChoiceChallenge",
+            "projectName": "LeetCode_problems_d00d9fcc"
+        },
         {
             "type": "node",
             "request": "launch",

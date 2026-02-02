@@ -17,7 +17,21 @@ Constraints:
 s[i] is a printable ascii character. */
 
 const s = ["h", "e", "l", "l", "o"];
-function reverseString(s: string[]): void {
+
+function reverseString(stringArr: string[]): string[] {
+  let left = 0;
+  let right = stringArr.length - 1;
+  while (left < right) {
+    let temp: string = stringArr[left];
+    stringArr[left] = stringArr[right];
+    left++;
+    stringArr[right] = temp;
+    right--;
+  }
+  return stringArr;
+}
+
+/* function reverseString(s: string[]): void {
   let left: number = 0;
   let right: number = s.length - 1;
   while (left < right) {
@@ -27,7 +41,7 @@ function reverseString(s: string[]): void {
     s[right] = tempChar;
     right--;
   }
-}
+} */
 console.log(s);
 reverseString(s);
 console.log(s);
