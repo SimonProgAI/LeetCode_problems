@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverStringPreserveSpacePosition",
+            "request": "launch",
+            "mainClass": "ReverStringPreserveSpacePosition",
+            "projectName": "LeetCode_problems_d00d9fcc"
+        },
+        {
+            "type": "java",
             "name": "RemoveDupplicatesFromSortedArray",
             "request": "launch",
             "mainClass": "RemoveDupplicatesFromSortedArray",
