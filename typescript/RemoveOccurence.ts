@@ -1,7 +1,5 @@
 /* 
-
-
-
+https://www.geeksforgeeks.org/dsa/remove-element/
 */
 
 const numsArr: number[] = [3, 2, 2, 3, 4, 3, 5];

@@ -1,4 +1,7 @@
-/* 1.[Naive Approach] - Using a new String - O(n) Time and O(n) Space
+/* 
+https://www.geeksforgeeks.org/dsa/reverse-string-preserving-space-positions/
+
+1.[Naive Approach] - Using a new String - O(n) Time and O(n) Space
 The idea is to create a string to store results. 
 
 Mark the space position of the given string in this string 

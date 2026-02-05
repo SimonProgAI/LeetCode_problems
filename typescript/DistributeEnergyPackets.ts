@@ -1,6 +1,7 @@
 /* 
 DISTRIBUTE ENERGY PACKETS
 
+
 You are given a list packets, where packets[i] represents the size of the i_th energy packet.
 Each packet can be split into any number of smaller sub-packets, but you cannot merge packets together.
 You are also given integer agents, representing the number of agents who must each receive one packet of the same size.
